@@ -20,7 +20,7 @@ The **Company Registration System** is a responsive web-based form designed to h
 ## Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/company-registration-system.git
+   git clone https://github.com/Eshab01/Company-registration-system.git
    ```
 
 2. **Open `signup_page.html` in your browser:**
